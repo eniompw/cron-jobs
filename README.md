@@ -1,4 +1,4 @@
-# crontab
+# cron jobs
 execute scheduled commands
 
 #### Install
