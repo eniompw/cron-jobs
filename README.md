@@ -11,6 +11,7 @@ execute scheduled commands
 ```
 # m h  dom mon dow   command
 * * * * * python /home/ubuntu/example.py
+# this executes example.py every min
 ```
 example.py
 ```
